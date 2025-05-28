@@ -30,7 +30,7 @@ The goal of the project will be to build a robust generative search system capab
 # !pip install -qU pypdf
 #
 
-!pip install chromadb
+# !pip install chromadb
 
 # Commented out IPython magic to ensure Python compatibility.
 # %pip install -qU langchain-openai langchain-community
