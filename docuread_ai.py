@@ -37,7 +37,7 @@ The goal of the project will be to build a robust generative search system capab
 
 # !pip install --upgrade --force-reinstall --no-cache-dir langchain langchain-openai langchain-core --user
 
-!pip install sentence-transformers --user
+# !pip install sentence-transformers --user
 
 """### Import Dataset
 
