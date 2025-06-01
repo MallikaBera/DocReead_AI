@@ -6,7 +6,7 @@ This project aims to develop a robust Retrieval-Augmented Generation (RAG) syste
 The goal of the project will be to build a robust generative search system capable of effectively and accurately answering questions from a policy document. We will be using a single long life insurance policy document for this project.
 
 ### Dataset:
-Insurance Policy Dataset 
+Principal-Sample-Life-Insurance-Policy.pdf
 
 ### Design: 
 #### Embedding Layer
