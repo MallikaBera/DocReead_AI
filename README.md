@@ -43,5 +43,5 @@ We developed a bot that:
 - ChromaDB
 - Huggingface Sentence Transformer
 
-
+©Created by - Mallika Bera
   
